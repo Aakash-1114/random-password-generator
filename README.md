@@ -1,4 +1,4 @@
-🔐 Password Generator (Python)
+🔐 Random Password Generator (Python)
 
 A simple and interactive password generator built using Python.
 It allows users to create strong and customized passwords by choosing from different types of character combinations..
@@ -13,6 +13,14 @@ Select password type
 Random and strong password generation
 
 Beginner-friendly Python code
+
+
+
+👨‍💻 Author
+
+Aakash Gupta 🕹 Beginner Python Developer 📧 Feel free to connect or share feedback!
+
+
 
 
 
