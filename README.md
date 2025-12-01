@@ -16,6 +16,13 @@ Beginner-friendly Python code
 
 
 
+📦 Requirements
+
+Python 3.x
+No external libraries needed.
+
+
+
 👨‍💻 Author
 
 Aakash Gupta 🕹 Beginner Python Developer 📧 Feel free to connect or share feedback!
@@ -24,9 +31,4 @@ Aakash Gupta 🕹 Beginner Python Developer 📧 Feel free to connect or share f
 
 
 
-
-📦 Requirements
-
-Python 3.x
-No external libraries needed.
 
